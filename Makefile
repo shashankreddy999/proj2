@@ -14,5 +14,7 @@ run5b:
 	python3 task5b.py
 run6:
 	python3 task6.py
+run7a:
+	python3 task7a.py
 run7b:
 	python3 task7b.py
